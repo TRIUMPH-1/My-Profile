@@ -36,8 +36,9 @@ h1, h2 {
 
 section {
   max-width: 900px;
-  margin: 100px auto 30px;
-  padding: 0 20px;
+  margin: 50px auto 50px;
+  padding: 0px 20px;
+  
 }
 
 /* Profile Section */
@@ -46,6 +47,7 @@ section {
   align-items: center; /* vertically center the items */
   gap: 20px; /* space between image and text */
   padding: 20px;
+  margin: 80px auto 10px;
 }
 
 @media (max-width: 600px) {
