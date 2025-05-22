@@ -171,6 +171,7 @@ button:hover {
     padding: 20px;
   }
 
+
   #skill ul {
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   }
